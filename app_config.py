@@ -1,4 +1,4 @@
-#updated connection String
+#Connection String
 CONST_MONGO_URL = "mongodb+srv://Sethigarvit08:<password>@cluster0.kxnuxgh.mongodb.net/?retryWrites=true&w=majority"
 CONST_DATABASE_NAME = "Test"
 CONST_USER_COLLECTION = "users"
